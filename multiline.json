@@ -1,0 +1,10 @@
+{"date":"2023-09-07","time":"14:32:15.003947","name":"Vitor","amount":"69.12","amount_interchange":"47","transaction_id":"af6dee33-25ac-470c-ac2d-9fba034c93fb","sequence_number":4,"_partition":2,"_offset":966}
+{"date":"2023-09-07","time":"14:37:56.636877","name":"Igor","amount":"132.26","amount_interchange":"25","transaction_id":"81b2bcbe-e256-4c67-b251-c64a638eb2c8","sequence_number":5,"_partition":2,"_offset":967}
+{"date":"2023-09-07","time":"14:32:15.003947","name":"Vitor","amount":"69.12","amount_interchange":"47","transaction_id":"af6dee33-25ac-470c-ac2d-9fba034c93fb","sequence_number":6,"_partition":2,"_offset":968}
+{"date":"2023-09-07","time":"14:37:56.636877","name":"Igor","amount":"132.26","amount_interchange":"25","transaction_id":"81b2bcbe-e256-4c67-b251-c64a638eb2c8","sequence_number":7,"_partition":2,"_offset":969}
+{"date":"2023-09-07","time":"14:32:15.003947","name":"Vitor","amount":"69.12","amount_interchange":"47","transaction_id":"af6dee33-25ac-470c-ac2d-9fba034c93fb","sequence_number":8,"_partition":2,"_offset":970}
+{"date":"2023-09-07","time":"14:37:56.636877","name":"Igor","amount":"132.26","amount_interchange":"25","transaction_id":"81b2bcbe-e256-4c67-b251-c64a638eb2c8","sequence_number":9,"_partition":2,"_offset":971}
+{"date":"2023-09-07","time":"14:32:15.003947","name":"Vitor","amount":"69.12","amount_interchange":"47","transaction_id":"af6dee33-25ac-470c-ac2d-9fba034c93fb","sequence_number":10,"_partition":2,"_offset":972}
+{"date":"2023-09-07","time":"14:37:56.636877","name":"Igor","amount":"132.26","amount_interchange":"25","transaction_id":"81b2bcbe-e256-4c67-b251-c64a638eb2c8","sequence_number":11,"_partition":2,"_offset":973}
+{"date":"2023-09-07","time":"14:32:15.003947","name":"Vitor","amount":"69.12","amount_interchange":"47","transaction_id":"af6dee33-25ac-470c-ac2d-9fba034c93fb","sequence_number":12,"_partition":2,"_offset":974}
+{"date":"2023-09-07","time":"14:37:56.636877","name":"Igor","amount":"132.26","amount_interchange":"25","transaction_id":"81b2bcbe-e256-4c67-b251-c64a638eb2c8","sequence_number":13"_partition":2,"_offset":975}
